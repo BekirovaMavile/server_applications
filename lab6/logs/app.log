@@ -1,0 +1,74 @@
+2024-11-21 11:42:20 [[34mDEBUG[39m] This is a debug message
+2024-11-21 11:42:20 [[32mINFO[39m] This is an info message
+2024-11-21 11:42:20 [[33mWARN[39m] This is a warning
+2024-11-21 11:42:20 [[31mERROR[39m] This is an error
+2024-11-21 11:52:29 [[32mINFO[39m] Server is running on http://localhost:3000
+2024-11-21 11:52:36 [[36mHTTP[39m] HTTP Request: GET /
+2024-11-21 11:52:36 [[32mINFO[39m] User visited the home page
+2024-11-21 11:52:36 [[36mHTTP[39m] HTTP Request: GET /favicon.ico
+2024-11-21 11:52:44 [[36mHTTP[39m] HTTP Request: GET /about
+2024-11-21 11:52:44 [[32mINFO[39m] User visited the about page
+2024-11-21 11:52:52 [[36mHTTP[39m] HTTP Request: GET /
+2024-11-21 11:52:52 [[32mINFO[39m] User visited the home page
+2024-11-21 11:53:21 [[36mHTTP[39m] HTTP Request: GET /about
+2024-11-21 11:53:21 [[32mINFO[39m] User visited the about page
+2024-11-21 11:53:22 [[36mHTTP[39m] HTTP Request: GET /
+2024-11-21 11:53:22 [[32mINFO[39m] User visited the home page
+2024-11-21 12:52:11 [[32mINFO[39m] Server is running on http://localhost:3000
+2024-11-21 12:52:15 [[36mHTTP[39m] HTTP Request: GET /
+2024-11-21 12:52:15 [[32mINFO[39m] User visited the home page
+2024-11-21 12:52:19 [[36mHTTP[39m] HTTP Request: GET /about
+2024-11-21 12:52:19 [[32mINFO[39m] User visited the about page
+2024-11-21 12:52:22 [[36mHTTP[39m] HTTP Request: GET /
+2024-11-21 12:52:22 [[32mINFO[39m] User visited the home page
+2024-11-21 12:54:00 [[36mHTTP[39m] HTTP Request: GET /about
+2024-11-21 12:54:00 [[32mINFO[39m] User visited the about page
+2024-11-21 12:54:23 [[36mHTTP[39m] HTTP Request: GET /warn
+2024-11-21 12:54:23 [[33mWARN[39m] User triggered a warning log
+2024-11-21 12:54:30 [[36mHTTP[39m] HTTP Request: GET /error
+2024-11-21 12:54:30 [[31mERROR[39m] Error occurred: Simulated error occurred
+2024-11-21 12:54:42 [[36mHTTP[39m] HTTP Request: GET /form
+2024-11-21 12:54:42 [[32mINFO[39m] User accessed the form page
+2024-11-21 12:54:55 [[36mHTTP[39m] HTTP Request: GET /debug
+2024-11-21 12:54:55 [[34mDEBUG[39m] Debug route accessed. This is a detailed debug log.
+2024-11-22 12:47:07 [[32mINFO[39m] Server is running on http://localhost:3000
+2024-11-22 12:47:10 [[36mHTTP[39m] HTTP Request: GET /
+2024-11-22 12:47:10 [[32mINFO[39m] User visited the home page
+2024-11-22 12:47:21 [[36mHTTP[39m] HTTP Request: GET /about
+2024-11-22 12:47:21 [[32mINFO[39m] User visited the about page
+2024-11-22 12:47:43 [[36mHTTP[39m] HTTP Request: GET /warn
+2024-11-22 12:47:43 [[33mWARN[39m] User triggered a warning log
+2024-11-22 12:47:54 [[36mHTTP[39m] HTTP Request: GET /
+2024-11-22 12:47:54 [[32mINFO[39m] User visited the home page
+2024-11-22 12:47:58 [[36mHTTP[39m] HTTP Request: GET /error
+2024-11-22 12:47:58 [[31mERROR[39m] Error occurred: Simulated error occurred
+2024-11-22 12:48:08 [[36mHTTP[39m] HTTP Request: GET /
+2024-11-22 12:48:08 [[32mINFO[39m] User visited the home page
+2024-11-22 12:48:11 [[36mHTTP[39m] HTTP Request: GET /form
+2024-11-22 12:48:11 [[32mINFO[39m] User accessed the form page
+2024-11-22 12:48:16 [[36mHTTP[39m] HTTP Request: POST /form
+2024-11-22 12:48:16 [[32mINFO[39m] Form submitted with name: dsd
+2024-11-22 12:48:19 [[36mHTTP[39m] HTTP Request: GET /
+2024-11-22 12:48:19 [[32mINFO[39m] User visited the home page
+2024-11-22 12:48:20 [[36mHTTP[39m] HTTP Request: GET /form
+2024-11-22 12:48:20 [[32mINFO[39m] User accessed the form page
+2024-11-22 12:48:48 [[36mHTTP[39m] HTTP Request: GET /
+2024-11-22 12:48:48 [[32mINFO[39m] User visited the home page
+2024-11-22 12:48:51 [[36mHTTP[39m] HTTP Request: GET /debug
+2024-11-22 12:48:51 [[34mDEBUG[39m] Debug route accessed. This is a detailed debug log.
+2024-11-22 13:19:33 [[32mINFO[39m] Server is running on http://localhost:3000
+2024-11-22 13:31:30 [[36mHTTP[39m] HTTP Request: GET /about
+2024-11-22 13:31:30 [[32mINFO[39m] User visited the about page
+2024-11-22 13:31:42 [[36mHTTP[39m] HTTP Request: GET /warn
+2024-11-22 13:31:42 [[33mWARN[39m] User triggered a warning log
+2024-11-22 13:31:52 [[36mHTTP[39m] HTTP Request: GET /error
+2024-11-22 13:31:52 [[31mERROR[39m] Error occurred: Simulated error occurred
+2024-11-22 13:32:02 [[36mHTTP[39m] HTTP Request: POST /form
+2024-11-22 13:32:02 [[32mINFO[39m] Form submitted with name: Mavile
+2024-11-22 13:32:08 [[36mHTTP[39m] HTTP Request: GET /form
+2024-11-22 13:32:08 [[32mINFO[39m] User accessed the form page
+2024-11-22 13:32:17 [[36mHTTP[39m] HTTP Request: POST /form
+2024-11-22 13:32:17 [[33mWARN[39m] Admin access detected in form submission
+2024-11-22 13:32:17 [[32mINFO[39m] Form submitted with name: admin
+2024-11-22 13:32:39 [[36mHTTP[39m] HTTP Request: GET /debug
+2024-11-22 13:32:39 [[34mDEBUG[39m] Debug route accessed. This is a detailed debug log.
