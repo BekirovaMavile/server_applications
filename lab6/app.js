@@ -9,6 +9,7 @@ app.use((req, res, next) => {
   next();
 });
 
+
 app.get('/', (req, res) => {
   logger.info('User visited the home page');
   res.send('<h1>Welcome to the Home Page</h1><a href="/about">Go to About</a>');
